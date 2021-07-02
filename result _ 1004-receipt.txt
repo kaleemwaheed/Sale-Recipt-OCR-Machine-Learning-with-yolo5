@@ -1,0 +1,33 @@
+[
+    {
+        "Result": {
+            "total": "     TAX $1. 40  TOTAL. $15.03  PA oL $90.00, conf: 0.36",
+            "address": "     SOLDEN BOWL TERIYAKI  8610 G, )  sour GARFIELD AVE.  TEL felagerats number 0.56, conf: 0.41",
+            "subtotal": "",
+            "phone_number": "     1 VATE, CA, 90280  > (682) 928-8999, conf: 0.34",
+            "items": [
+                [
+                    [
+                        " 1 #1 CHKN PILATE",
+                        0.84,
+                        "$9.39",
+                        0.66
+                    ],
+                    [
+                        " 1 + AVOCADO",
+                        0.93,
+                        "9b",
+                        0.71
+                    ],
+                    [
+                        " 1 + DRINK",
+                        0.73,
+                        "$2.29",
+                        0.91
+                    ]
+                ]
+            ]
+        },
+        "image": "1004-receipt.jpg"
+    }
+]
