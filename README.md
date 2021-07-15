@@ -1,4 +1,4 @@
-# Sale-Recipt-OCR-Machine-Learning-with-yolo5
+# Sale Receipt OCR Machine Learning with yolo5 and pytesseract
 
 
 NOTE: Working for private company , project running on live environment
